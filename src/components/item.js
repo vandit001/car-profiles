@@ -4,7 +4,7 @@ const Item = () => {
   <div>
     <div></div>
     <div>
-      <button onClick={handleDelete}>Delete</button>
+      {/* <button onClick={handleDelete}>Delete</button> */}
     </div>
   </div>;
 };
